@@ -1,4 +1,4 @@
-const Nome = prompt("Digite Seu Nome: ");
+const Nome = Prompt("Digite Seu Nome: ");
 const Idade = prompt("Digite Quantos Anos você tem: ");
 const Linguagem = prompt("Digite A Linguagem de Programação que Está Estudando: ");
 
