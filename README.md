@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/riandeoliveira/LinkedInClone/c5cfa878ec23ae6d9971b44a6d484b8310bb0188/.github/header.svg)
+
+
 # 7DaysOfCode
 ## Desafio JS Java Script
 
