@@ -7,6 +7,8 @@
 #### Desafios feitos Durante os 7 Days feitos com JS:
 - Realizar um projeto por dia
 - Compartilhar nas mídias sociais usando a hashtag #7DaysOfCode
+- Realizado pela instrutora de Font-End da Alura Rafaella Ballerini
+
 
 
 |  DIA   |                               ATIVIDADE              |STATUS            |
